@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Lead Inbox",
+    "slug": "lead-inbox",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "backgroundColor": "#E3E8E4"
+    },
+    "plugins": [
+      "expo-font",
+      "expo-status-bar"
+    ]
+  }
+}
