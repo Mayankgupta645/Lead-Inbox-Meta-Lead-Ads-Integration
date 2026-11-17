@@ -47,10 +47,4 @@ Meta Lead Ads → Meta Webhooks → Express.js Backend → Meta Graph API → Mo
 
 The primary objective is to demonstrate an end-to-end integration between Meta Lead Ads and a custom lead management application, reducing manual lead collection and providing a centralized system for handling incoming customer inquiries.
 
-## Project Status
-
-Under Development 🚀
-
----
-
 **Built with Node.js, Express.js, MongoDB, React Native and Meta Graph API.**
